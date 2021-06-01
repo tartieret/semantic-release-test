@@ -8,6 +8,8 @@ def printstuff():
 def printstuff2():
     print("stuff2")
 
+def printstuff3():
+    print("stuff3")
 
 def add(x, y):
     return x+y
