@@ -5,6 +5,9 @@ print("Hello world")
 def printstuff():
     print("stuff")
 
+def printstuff2():
+    print("stuff2")
+
 
 def add(x, y):
     return x+y
